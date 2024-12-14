@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 - Myself Jahanvi Pandey 
-- 🔭 I’m interested in AIML and cybersecurity 
-- 🌱 I’m currently learning cyber security 
-- 👯 I’m looking to collaborate on AIML and cyber security 
+- 🔭 I’m interested in AIML and cybersecurity related stuff.
+- 🌱 I’m currently learning basics of ml and cybersecurity.
+- 👯 I’m looking to collaborate for learning, upgrading skill and growing together.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
